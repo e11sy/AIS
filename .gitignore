@@ -1,0 +1,9 @@
+# pacage manager
+.yarn/
+yarn-error.log
+yarn.lock
+
+# dependency directories
+node_modules/
+
+dist/
